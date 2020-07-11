@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "138933356831",
+    "firebase_url": "https://gymshare-14c95.firebaseio.com",
+    "project_id": "gymshare-14c95",
+    "storage_bucket": "gymshare-14c95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138933356831:android:c1f2ed3886414a77f5c82a",
+        "android_client_info": {
+          "package_name": "com.example.Gymshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138933356831-7g3no99i4b6okp1jphlt4imkuub71sk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOx9knDAKMTBQO5_n5WaeQbeaPojWg61A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138933356831-7g3no99i4b6okp1jphlt4imkuub71sk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138933356831:android:6e3dbb3d0a7951aef5c82a",
+        "android_client_info": {
+          "package_name": "com.example.gymshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138933356831-bbpuvrj5idpdmia1th1hunul2i4sjg3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gymshare",
+            "certificate_hash": "125a3bd57e022a1414ec9506c5c3eb119c917367"
+          }
+        },
+        {
+          "client_id": "138933356831-7g3no99i4b6okp1jphlt4imkuub71sk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOx9knDAKMTBQO5_n5WaeQbeaPojWg61A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138933356831-7g3no99i4b6okp1jphlt4imkuub71sk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
